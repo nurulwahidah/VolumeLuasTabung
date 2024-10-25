@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Hitung Volume dan Luas</string>
+    <string name="title">Hitung Volume dan Luas Balok</string>
+    <string name="hint_length">Panjang</string>
+    <string name="hint_width">Lebar</string>
+    <string name="hint_height">Tinggi</string>
+    <string name="button_calculate">Hitung</string>
+    <string name="result_format">Volume: %1$.2f\nLuas: %2$.2f</string>
+    <string name="error_message">Silakan masukkan angka yang valid.</string>
+</resources>
